@@ -1,5 +1,6 @@
 # nastyaarxi2.github.io
-Landing page для компании blizko 2022 (Дизайн + верстка)
+Landing page для компании blizko 2022 (Дизайн + верстка) 
+<a href="https://nastyaarxi2.github.io/">Ссылка на страницу</a>
 
 - Figma
 - HTML, CSS
