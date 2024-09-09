@@ -5,3 +5,5 @@ Landing page для компании blizko 2022 (Дизайн + верстка)
 - HTML, CSS
 - Bootstrap
 - jquery
+
+Style CSS прописаны не в отдельном файле по запросу заказчика.
